@@ -1,0 +1,510 @@
+[
+    {
+        "nombreEquipo": "Manchester City",
+        "dtEquipo": "Pepe Guardiola",
+        "presupuestoEquipo": 4500000,
+        "puntajeEquipo": 0,
+        "jugadores": [
+            {
+                "nombreJugador": "Ederson",
+                "posicionJugador": "Portero",
+                "costoJugador": 80000000,
+                "ataqueJugador": 50,
+                "defensaJugador": 85,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Rúben Dias",
+                "posicionJugador": "Defensor",
+                "costoJugador": 70000000,
+                "ataqueJugador": 40,
+                "defensaJugador": 85,
+                "valoracionTotal": 62
+            },
+            {
+                "nombreJugador": "John Stones",
+                "posicionJugador": "Defensor",
+                "costoJugador": 60000000,
+                "ataqueJugador": 40,
+                "defensaJugador": 80,
+                "valoracionTotal": 60
+            },
+            {
+                "nombreJugador": "Kyle Walker",
+                "posicionJugador": "Defensor",
+                "costoJugador": 60000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 75,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Kevin De Bruyne",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 90000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 75,
+                "valoracionTotal": 80
+            },
+            {
+                "nombreJugador": "Rodri",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 80000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 80,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Phil Foden",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 75000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 70,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Erling Haaland",
+                "posicionJugador": "Delantero",
+                "costoJugador": 150000000,
+                "ataqueJugador": 90,
+                "defensaJugador": 70,
+                "valoracionTotal": 80
+            },
+            {
+                "nombreJugador": "Jérémy Doku",
+                "posicionJugador": "Delantero",
+                "costoJugador": 70000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 65,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Bernardo Silva",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 70000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 75,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Julián Álvarez",
+                "posicionJugador": "Delantero",
+                "costoJugador": 60000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 65,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Jack Grealish",
+                "posicionJugador": "Delantero",
+                "costoJugador": 80000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 70,
+                "valoracionTotal": 77
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    },
+    {
+        "nombreEquipo": "Manchester United",
+        "dtEquipo": "Guille",
+        "presupuestoEquipo": 37000000,
+        "puntajeEquipo": 0,
+        "jugadores": [
+            {
+                "nombreJugador": "Andrè Onana",
+                "posicionJugador": "Portero",
+                "costoJugador": 5000000,
+                "ataqueJugador": 30,
+                "defensaJugador": 80,
+                "valoracionTotal": 55
+            },
+            {
+                "nombreJugador": "Harry Maguire",
+                "posicionJugador": "Defensor",
+                "costoJugador": 60000000,
+                "ataqueJugador": 30,
+                "defensaJugador": 75,
+                "valoracionTotal": 52
+            },
+            {
+                "nombreJugador": "Raphaël Varane",
+                "posicionJugador": "Defensor",
+                "costoJugador": 70000000,
+                "ataqueJugador": 30,
+                "defensaJugador": 75,
+                "valoracionTotal": 52
+            },
+            {
+                "nombreJugador": "Luke Shaw",
+                "posicionJugador": "Defensor",
+                "costoJugador": 50000000,
+                "ataqueJugador": 60,
+                "defensaJugador": 70,
+                "valoracionTotal": 65
+            },
+            {
+                "nombreJugador": "Bruno Fernandes",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 80000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 75,
+                "valoracionTotal": 80
+            },
+            {
+                "nombreJugador": "Christian Eriksen",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 25000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 70,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Scott McTominay",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 40000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 75,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Marcus Rashford",
+                "posicionJugador": "Delantero",
+                "costoJugador": 70000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 70,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Rasmus Højlund",
+                "posicionJugador": "Delantero",
+                "costoJugador": 40000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 65,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Amad Diallo",
+                "posicionJugador": "Delantero",
+                "costoJugador": 30000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 70,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Antony",
+                "posicionJugador": "Delantero",
+                "costoJugador": 50000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 65,
+                "valoracionTotal": 70
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    },
+    {
+        "nombreEquipo": "Tottenham",
+        "dtEquipo": "Roque",
+        "presupuestoEquipo": 3600000,
+        "puntajeEquipo": 0,
+        "jugadores": [
+            {
+                "nombreJugador": "Guglielmo Vicario",
+                "posicionJugador": "Portero",
+                "costoJugador": 30000000,
+                "ataqueJugador": 60,
+                "defensaJugador": 85,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Cristian Romero",
+                "posicionJugador": "Defensor",
+                "costoJugador": 50000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 85,
+                "valoracionTotal": 80
+            },
+            {
+                "nombreJugador": "Micky Van de Ven",
+                "posicionJugador": "Defensor",
+                "costoJugador": 35000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 80,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Destiny Udogie",
+                "posicionJugador": "Defensor",
+                "costoJugador": 50000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 80,
+                "valoracionTotal": 80
+            },
+            {
+                "nombreJugador": "Pedro Porro",
+                "posicionJugador": "Defensor",
+                "costoJugador": 35000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 75,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Rodrigo Bentancur",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 35000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 75,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Pierre-Emile Højbjerg",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 40000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 75,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "James Maddison",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 60000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 70,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Son Heung-Min",
+                "posicionJugador": "Delantero",
+                "costoJugador": 80000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 75,
+                "valoracionTotal": 80
+            },
+            {
+                "nombreJugador": "Richarlison",
+                "posicionJugador": "Delantero",
+                "costoJugador": 70000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 70,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Timo Werner",
+                "posicionJugador": "Delantero",
+                "costoJugador": 60000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 70,
+                "valoracionTotal": 77
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    },
+    {
+        "nombreEquipo": "Chelsea",
+        "dtEquipo": "Facu",
+        "presupuestoEquipo": 4000000,
+        "puntajeEquipo": 0,
+        "jugadores": [
+            {
+                "nombreJugador": "Robert Sánchez",
+                "posicionJugador": "Portero",
+                "costoJugador": 12000000,
+                "ataqueJugador": 40,
+                "defensaJugador": 75,
+                "valoracionTotal": 57
+            },
+            {
+                "nombreJugador": "Malang Sarr",
+                "posicionJugador": "Defensor",
+                "costoJugador": 8000000,
+                "ataqueJugador": 50,
+                "defensaJugador": 70,
+                "valoracionTotal": 60
+            },
+            {
+                "nombreJugador": "Axel Disasi",
+                "posicionJugador": "Defensor",
+                "costoJugador": 10000000,
+                "ataqueJugador": 45,
+                "defensaJugador": 65,
+                "valoracionTotal": 55
+            },
+            {
+                "nombreJugador": "Benoît Badiashile",
+                "posicionJugador": "Defensor",
+                "costoJugador": 12000000,
+                "ataqueJugador": 50,
+                "defensaJugador": 70,
+                "valoracionTotal": 60
+            },
+            {
+                "nombreJugador": "Thiago Silva",
+                "posicionJugador": "Defensor",
+                "costoJugador": 15000000,
+                "ataqueJugador": 60,
+                "defensaJugador": 75,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Enzo Fernández",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 15000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 65,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Mykhailo Mudryk",
+                "posicionJugador": "Delantero",
+                "costoJugador": 18000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 60,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Cole Palmer",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 30000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 60,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Moises Caicedo",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 20000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 65,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Raheem Sterling",
+                "posicionJugador": "Delantero",
+                "costoJugador": 35000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 60,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Nicolas Jackson",
+                "posicionJugador": "Delantero",
+                "costoJugador": 25000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 55,
+                "valoracionTotal": 67
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    },
+    {
+        "nombreEquipo": "Liverpool",
+        "dtEquipo": "Cristobal colon",
+        "presupuestoEquipo": 6000000,
+        "puntajeEquipo": 0,
+        "jugadores": [
+            {
+                "nombreJugador": "Alisson Becker",
+                "posicionJugador": "Portero",
+                "costoJugador": 50000000,
+                "ataqueJugador": 40,
+                "defensaJugador": 85,
+                "valoracionTotal": 62
+            },
+            {
+                "nombreJugador": "Virgil van Dijk",
+                "posicionJugador": "Defensor",
+                "costoJugador": 60000000,
+                "ataqueJugador": 50,
+                "defensaJugador": 85,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Ibrahima Konaté",
+                "posicionJugador": "Defensor",
+                "costoJugador": 35000000,
+                "ataqueJugador": 45,
+                "defensaJugador": 80,
+                "valoracionTotal": 62
+            },
+            {
+                "nombreJugador": "Trent Alexander-Arnold",
+                "posicionJugador": "Defensor",
+                "costoJugador": 70000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 80,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Andy Robertson",
+                "posicionJugador": "Defensor",
+                "costoJugador": 60000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 85,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Thiago Alcântara",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 50000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 75,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Dominik Szoboszlai",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 45000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 70,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Harvey Elliott",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 40000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 70,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Luis Díaz",
+                "posicionJugador": "Delantero",
+                "costoJugador": 55000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 70,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Darwin Núñez",
+                "posicionJugador": "Delantero",
+                "costoJugador": 60000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 75,
+                "valoracionTotal": 80
+            },
+            {
+                "nombreJugador": "Diogo Jota",
+                "posicionJugador": "Delantero",
+                "costoJugador": 50000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 70,
+                "valoracionTotal": 75
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    }
+]

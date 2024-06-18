@@ -1,0 +1,510 @@
+[
+    {
+        "nombreEquipo": "Boca Juniors",
+        "dtEquipo": "Diego Martinez",
+        "presupuestoEquipo": 5000000,
+        "puntajeEquipo": 0,
+        "jugadoresEquipo": [
+            {
+                "nombreJugador": "Sergio Romero",
+                "posicionJugador": "Arquero",
+                "costoJugador": 3000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 80,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Nicolás Figal",
+                "posicionJugador": "Defensor",
+                "costoJugador": 2700000,
+                "ataqueJugador": 68,
+                "defensaJugador": 76,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Marcos Rojo",
+                "posicionJugador": "Defensor",
+                "costoJugador": 3200000,
+                "ataqueJugador": 75,
+                "defensaJugador": 80,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Luis Advíncula",
+                "posicionJugador": "Defensor",
+                "costoJugador": 2800000,
+                "ataqueJugador": 70,
+                "defensaJugador": 75,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Lautaro Blanco",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 3000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 78,
+                "valoracionTotal": 76
+            },
+            {
+                "nombreJugador": "Guillermo Fernández",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2800000,
+                "ataqueJugador": 70,
+                "defensaJugador": 75,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Kevin Zenón",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 3000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 76,
+                "valoracionTotal": 73
+            },
+            {
+                "nombreJugador": "Cristian Medina",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2500000,
+                "ataqueJugador": 65,
+                "defensaJugador": 72,
+                "valoracionTotal": 68
+            },
+            {
+                "nombreJugador": "Edinson Cavani",
+                "posicionJugador": "Delantero",
+                "costoJugador": 3800000,
+                "ataqueJugador": 85,
+                "defensaJugador": 82,
+                "valoracionTotal": 83
+            },
+            {
+                "nombreJugador": "Luca Langoni",
+                "posicionJugador": "Delantero",
+                "costoJugador": 2400000,
+                "ataqueJugador": 65,
+                "defensaJugador": 72,
+                "valoracionTotal": 68
+            },
+            {
+                "nombreJugador": "Miguel Merentiel",
+                "posicionJugador": "Delantero",
+                "costoJugador": 2600000,
+                "ataqueJugador": 68,
+                "defensaJugador": 75,
+                "valoracionTotal": 71
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    },
+    {
+        "nombreEquipo": "River Plate",
+        "dtEquipo": "Martin Demichelis",
+        "presupuestoEquipo": 4000000,
+        "puntajeEquipo": 0,
+        "jugadoresEquipo": [
+            {
+                "nombreJugador": "Franco Armani",
+                "posicionJugador": "Arquero",
+                "costoJugador": 3500000,
+                "ataqueJugador": 70,
+                "defensaJugador": 80,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Milton Casco",
+                "posicionJugador": "Defensor",
+                "costoJugador": 2700000,
+                "ataqueJugador": 68,
+                "defensaJugador": 76,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Robert Rojas",
+                "posicionJugador": "Defensor",
+                "costoJugador": 3200000,
+                "ataqueJugador": 75,
+                "defensaJugador": 80,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Paulo Díaz",
+                "posicionJugador": "Defensor",
+                "costoJugador": 2800000,
+                "ataqueJugador": 70,
+                "defensaJugador": 75,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Enzo Pérez",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 3000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 78,
+                "valoracionTotal": 76
+            },
+            {
+                "nombreJugador": "Ignacio Fernández",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2800000,
+                "ataqueJugador": 70,
+                "defensaJugador": 75,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Nicolás De La Cruz",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 3000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 76,
+                "valoracionTotal": 73
+            },
+            {
+                "nombreJugador": "Agustín Palavecino",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2500000,
+                "ataqueJugador": 65,
+                "defensaJugador": 72,
+                "valoracionTotal": 68
+            },
+            {
+                "nombreJugador": "Lucas Beltrán",
+                "posicionJugador": "Delantero",
+                "costoJugador": 3800000,
+                "ataqueJugador": 85,
+                "defensaJugador": 82,
+                "valoracionTotal": 83
+            },
+            {
+                "nombreJugador": "Pablo Solari",
+                "posicionJugador": "Delantero",
+                "costoJugador": 2400000,
+                "ataqueJugador": 65,
+                "defensaJugador": 72,
+                "valoracionTotal": 68
+            },
+            {
+                "nombreJugador": "Matías Suárez",
+                "posicionJugador": "Delantero",
+                "costoJugador": 2600000,
+                "ataqueJugador": 68,
+                "defensaJugador": 75,
+                "valoracionTotal": 71
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    },
+    {
+        "nombreEquipo": "Racing Club",
+        "dtEquipo": "Gustavo Costas",
+        "presupuestoEquipo": 4500000,
+        "puntajeEquipo": 0,
+        "jugadoresEquipo": [
+            {
+                "nombreJugador": "Gabriel Arias",
+                "posicionJugador": "Arquero",
+                "costoJugador": 2200000,
+                "ataqueJugador": 30,
+                "defensaJugador": 85,
+                "valoracionTotal": 57
+            },
+            {
+                "nombreJugador": "Marco Di Césare",
+                "posicionJugador": "Defensor",
+                "costoJugador": 2200000,
+                "ataqueJugador": 45,
+                "defensaJugador": 80,
+                "valoracionTotal": 62
+            },
+            {
+                "nombreJugador": "Nazareno Colombo",
+                "posicionJugador": "Defensor",
+                "costoJugador": 1900000,
+                "ataqueJugador": 40,
+                "defensaJugador": 70,
+                "valoracionTotal": 55
+            },
+            {
+                "nombreJugador": "Gabriel Rojas",
+                "posicionJugador": "Defensor",
+                "costoJugador": 2000000,
+                "ataqueJugador": 40,
+                "defensaJugador": 70,
+                "valoracionTotal": 55
+            },
+            {
+                "nombreJugador": "Facundo Mura",
+                "posicionJugador": "Defensor",
+                "costoJugador": 1700000,
+                "ataqueJugador": 35,
+                "defensaJugador": 70,
+                "valoracionTotal": 52
+            },
+            {
+                "nombreJugador": "Juan Nardoni",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2500000,
+                "ataqueJugador": 65,
+                "defensaJugador": 70,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Juan Fernando Quintero",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2700000,
+                "ataqueJugador": 70,
+                "defensaJugador": 65,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Baltasar Rodríguez",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2100000,
+                "ataqueJugador": 60,
+                "defensaJugador": 65,
+                "valoracionTotal": 62
+            },
+            {
+                "nombreJugador": "Adrián Martínez",
+                "posicionJugador": "Delantero",
+                "costoJugador": 2700000,
+                "ataqueJugador": 90,
+                "defensaJugador": 45,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Roger Martínez",
+                "posicionJugador": "Delantero",
+                "costoJugador": 2600000,
+                "ataqueJugador": 80,
+                "defensaJugador": 55,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Johan Carbonero",
+                "posicionJugador": "Delantero",
+                "costoJugador": 2400000,
+                "ataqueJugador": 75,
+                "defensaJugador": 50,
+                "valoracionTotal": 62
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    },
+    {
+        "nombreEquipo": "Independiente",
+        "dtEquipo": "Ricardo Zielinski",
+        "presupuestoEquipo": 4000000,
+        "puntajeEquipo": 0,
+        "jugadoresEquipo": [
+            {
+                "nombreJugador": "Rodrigo Rey",
+                "posicionJugador": "Arquero",
+                "costoJugador": 3000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 80,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Joaquín Laso",
+                "posicionJugador": "Defensor",
+                "costoJugador": 2700000,
+                "ataqueJugador": 70,
+                "defensaJugador": 76,
+                "valoracionTotal": 73
+            },
+            {
+                "nombreJugador": "Mauricio Isla",
+                "posicionJugador": "Defensor",
+                "costoJugador": 3200000,
+                "ataqueJugador": 78,
+                "defensaJugador": 80,
+                "valoracionTotal": 79
+            },
+            {
+                "nombreJugador": "Edgar Elizalde",
+                "posicionJugador": "Defensor",
+                "costoJugador": 2800000,
+                "ataqueJugador": 72,
+                "defensaJugador": 77,
+                "valoracionTotal": 74
+            },
+            {
+                "nombreJugador": "Julio Buffarini",
+                "posicionJugador": "Defensor",
+                "costoJugador": 2500000,
+                "ataqueJugador": 68,
+                "defensaJugador": 74,
+                "valoracionTotal": 71
+            },
+            {
+                "nombreJugador": "Ayrton Costa",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2800000,
+                "ataqueJugador": 72,
+                "defensaJugador": 76,
+                "valoracionTotal": 74
+            },
+            {
+                "nombreJugador": "Santiago Toloza",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2700000,
+                "ataqueJugador": 70,
+                "defensaJugador": 75,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Iván Marcone",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2400000,
+                "ataqueJugador": 68,
+                "defensaJugador": 72,
+                "valoracionTotal": 70
+            },
+            {
+                "nombreJugador": "Gabriel Ávalos",
+                "posicionJugador": "Delantero",
+                "costoJugador": 3000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 78,
+                "valoracionTotal": 76
+            },
+            {
+                "nombreJugador": "Ignacio Maestro Puch",
+                "posicionJugador": "Delantero",
+                "costoJugador": 2700000,
+                "ataqueJugador": 70,
+                "defensaJugador": 75,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Alexis Canelo",
+                "posicionJugador": "Delantero",
+                "costoJugador": 3000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 78,
+                "valoracionTotal": 76
+            },
+            {
+                "nombreJugador": "Matías Giménez",
+                "posicionJugador": "Delantero",
+                "costoJugador": 2800000,
+                "ataqueJugador": 72,
+                "defensaJugador": 76,
+                "valoracionTotal": 74
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    },
+    {
+        "nombreEquipo": "San Lorenzo",
+        "dtEquipo": "Ruben Darío Insúa",
+        "presupuestoEquipo": 4000000,
+        "puntajeEquipo": 0,
+        "jugadoresEquipo": [
+            {
+                "nombreJugador": "Facundo Altamirano",
+                "posicionJugador": "Arquero",
+                "costoJugador": 2200000,
+                "ataqueJugador": 30,
+                "defensaJugador": 85,
+                "valoracionTotal": 57
+            },
+            {
+                "nombreJugador": "Agustín Giay",
+                "posicionJugador": "Defensor",
+                "costoJugador": 1800000,
+                "ataqueJugador": 35,
+                "defensaJugador": 75,
+                "valoracionTotal": 55
+            },
+            {
+                "nombreJugador": "Gastón Campi",
+                "posicionJugador": "Defensor",
+                "costoJugador": 1900000,
+                "ataqueJugador": 40,
+                "defensaJugador": 70,
+                "valoracionTotal": 55
+            },
+            {
+                "nombreJugador": "Nahuel Arias",
+                "posicionJugador": "Defensor",
+                "costoJugador": 1700000,
+                "ataqueJugador": 30,
+                "defensaJugador": 75,
+                "valoracionTotal": 52
+            },
+            {
+                "nombreJugador": "Gonzalo Luján",
+                "posicionJugador": "Defensor",
+                "costoJugador": 1600000,
+                "ataqueJugador": 35,
+                "defensaJugador": 65,
+                "valoracionTotal": 50
+            },
+            {
+                "nombreJugador": "Eric Remedi",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2500000,
+                "ataqueJugador": 65,
+                "defensaJugador": 70,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Nahuel Barrios",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2300000,
+                "ataqueJugador": 60,
+                "defensaJugador": 65,
+                "valoracionTotal": 62
+            },
+            {
+                "nombreJugador": "Malcom Braida",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 2000000,
+                "ataqueJugador": 55,
+                "defensaJugador": 60,
+                "valoracionTotal": 57
+            },
+            {
+                "nombreJugador": "Cristian Tarragona",
+                "posicionJugador": "Delantero",
+                "costoJugador": 2200000,
+                "ataqueJugador": 70,
+                "defensaJugador": 50,
+                "valoracionTotal": 60
+            },
+            {
+                "nombreJugador": "Adam Bareiro",
+                "posicionJugador": "Delantero",
+                "costoJugador": 2000000,
+                "ataqueJugador": 65,
+                "defensaJugador": 50,
+                "valoracionTotal": 57
+            },
+            {
+                "nombreJugador": "Diego Herazo",
+                "posicionJugador": "Delantero",
+                "costoJugador": 1800000,
+                "ataqueJugador": 55,
+                "defensaJugador": 50,
+                "valoracionTotal": 52
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    }
+]

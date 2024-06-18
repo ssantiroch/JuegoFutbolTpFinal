@@ -1,0 +1,323 @@
+[
+    {
+        "nombreJugador": "Lionel Messi",
+        "posicionJugador": "Delantero",
+        "costoJugador": 120.5,
+        "ataqueJugador": 95,
+        "defensaJugador": 30,
+        "golesJugador": 600,
+        "costoVenta": 100.0,
+        "valoracionTotal": 98
+    },
+    {
+        "nombreJugador": "Cristiano Ronaldo",
+        "posicionJugador": "Delantero",
+        "costoJugador": 110.3,
+        "ataqueJugador": 93,
+        "defensaJugador": 35,
+        "golesJugador": 700,
+        "costoVenta": 90.0,
+        "valoracionTotal": 97
+    },
+    {
+        "nombreJugador": "Manuel Neuer",
+        "posicionJugador": "Arquero",
+        "costoJugador": 75.0,
+        "ataqueJugador": 15,
+        "defensaJugador": 90,
+        "golesJugador": 0,
+        "costoVenta": 75.0,
+        "valoracionTotal": 92
+    },
+    {
+        "nombreJugador": "Sergio Ramos",
+        "posicionJugador": "Defensor",
+        "costoJugador": 70.0,
+        "ataqueJugador": 60,
+        "defensaJugador": 85,
+        "golesJugador": 75,
+        "costoVenta": 60.0,
+        "valoracionTotal": 89
+    },
+    {
+        "nombreJugador": "Luka Modric",
+        "posicionJugador": "Mediocampista",
+        "costoJugador": 65.0,
+        "ataqueJugador": 75,
+        "defensaJugador": 70,
+        "golesJugador": 100,
+        "costoVenta": 55.0,
+        "valoracionTotal": 88
+    },
+    {
+        "nombreJugador": "Neymar Jr",
+        "posicionJugador": "Delantero",
+        "costoJugador": 105.0,
+        "ataqueJugador": 90,
+        "defensaJugador": 40,
+        "golesJugador": 350,
+        "costoVenta": 85.0,
+        "valoracionTotal": 94
+    },
+    {
+        "nombreJugador": "Kylian Mbappe",
+        "posicionJugador": "Delantero",
+        "costoJugador": 130.0,
+        "ataqueJugador": 92,
+        "defensaJugador": 50,
+        "golesJugador": 200,
+        "costoVenta": 110.0,
+        "valoracionTotal": 95
+    },
+    {
+        "nombreJugador": "Kevin De Bruyne",
+        "posicionJugador": "Mediocampista",
+        "costoJugador": 85.0,
+        "ataqueJugador": 80,
+        "defensaJugador": 60,
+        "golesJugador": 120,
+        "costoVenta": 70.0,
+        "valoracionTotal": 91
+    },
+    {
+        "nombreJugador": "Virgil van Dijk",
+        "posicionJugador": "Defensor",
+        "costoJugador": 95.0,
+        "ataqueJugador": 50,
+        "defensaJugador": 95,
+        "golesJugador": 20,
+        "costoVenta": 80.0,
+        "valoracionTotal": 93
+    },
+    {
+        "nombreJugador": "Alisson Becker",
+        "posicionJugador": "Arquero",
+        "costoJugador": 70.0,
+        "ataqueJugador": 10,
+        "defensaJugador": 88,
+        "golesJugador": 0,
+        "costoVenta": 65.0,
+        "valoracionTotal": 90
+    },
+    {
+        "nombreJugador": "Joshua Kimmich",
+        "posicionJugador": "Mediocampista",
+        "costoJugador": 78.0,
+        "ataqueJugador": 70,
+        "defensaJugador": 75,
+        "golesJugador": 50,
+        "costoVenta": 65.0,
+        "valoracionTotal": 89
+    },
+    {
+        "nombreJugador": "Trent Alexander-Arnold",
+        "posicionJugador": "Defensor",
+        "costoJugador": 80.0,
+        "ataqueJugador": 65,
+        "defensaJugador": 70,
+        "golesJugador": 20,
+        "costoVenta": 70.0,
+        "valoracionTotal": 90
+    },
+    {
+        "nombreJugador": "Eden Hazard",
+        "posicionJugador": "Delantero",
+        "costoJugador": 95.0,
+        "ataqueJugador": 88,
+        "defensaJugador": 40,
+        "golesJugador": 150,
+        "costoVenta": 80.0,
+        "valoracionTotal": 91
+    },
+    {
+        "nombreJugador": "Jan Oblak",
+        "posicionJugador": "Arquero",
+        "costoJugador": 85.0,
+        "ataqueJugador": 5,
+        "defensaJugador": 95,
+        "golesJugador": 0,
+        "costoVenta": 80.0,
+        "valoracionTotal": 94
+    },
+    {
+        "nombreJugador": "Sadio Mane",
+        "posicionJugador": "Delantero",
+        "costoJugador": 90.0,
+        "ataqueJugador": 85,
+        "defensaJugador": 45,
+        "golesJugador": 150,
+        "costoVenta": 75.0,
+        "valoracionTotal": 92
+    },
+    {
+        "nombreJugador": "Kalidou Koulibaly",
+        "posicionJugador": "Defensor",
+        "costoJugador": 60.0,
+        "ataqueJugador": 40,
+        "defensaJugador": 85,
+        "golesJugador": 10,
+        "costoVenta": 50.0,
+        "valoracionTotal": 88
+    },
+    {
+        "nombreJugador": "Paul Pogba",
+        "posicionJugador": "Mediocampista",
+        "costoJugador": 75.0,
+        "ataqueJugador": 78,
+        "defensaJugador": 70,
+        "golesJugador": 80,
+        "costoVenta": 65.0,
+        "valoracionTotal": 89
+    },
+    {
+        "nombreJugador": "Sergio Busquets",
+        "posicionJugador": "Mediocampista",
+        "costoJugador": 50.0,
+        "ataqueJugador": 70,
+        "defensaJugador": 85,
+        "golesJugador": 15,
+        "costoVenta": 45.0,
+        "valoracionTotal": 87
+    },
+    {
+        "nombreJugador": "Serge Gnabry",
+        "posicionJugador": "Delantero",
+        "costoJugador": 55.5,
+        "ataqueJugador": 82,
+        "defensaJugador": 50,
+        "golesJugador": 40,
+        "costoVenta": 48.0,
+        "valoracionTotal": 84
+    },
+    {
+        "nombreJugador": "Milan Škriniar",
+        "posicionJugador": "Defensor",
+        "costoJugador": 42.0,
+        "ataqueJugador": 30,
+        "defensaJugador": 88,
+        "golesJugador": 5,
+        "costoVenta": 38.0,
+        "valoracionTotal": 85
+    },
+    {
+        "nombreJugador": "Kalidou Koulibaly",
+        "posicionJugador": "Defensor",
+        "costoJugador": 50.0,
+        "ataqueJugador": 40,
+        "defensaJugador": 90,
+        "golesJugador": 5,
+        "costoVenta": 45.0,
+        "valoracionTotal": 88
+    },
+    {
+        "nombreJugador": "Marco Verratti",
+        "posicionJugador": "Mediocampista",
+        "costoJugador": 48.5,
+        "ataqueJugador": 75,
+        "defensaJugador": 70,
+        "golesJugador": 10,
+        "costoVenta": 42.0,
+        "valoracionTotal": 86
+    },
+    {
+        "nombreJugador": "Arkadiusz Milik",
+        "posicionJugador": "Delantero",
+        "costoJugador": 55.0,
+        "ataqueJugador": 78,
+        "defensaJugador": 40,
+        "golesJugador": 30,
+        "costoVenta": 50.0,
+        "valoracionTotal": 83
+    },
+    {
+        "nombreJugador": "Lucas Hernandez",
+        "posicionJugador": "Defensor",
+        "costoJugador": 45.0,
+        "ataqueJugador": 50,
+        "defensaJugador": 85,
+        "golesJugador": 5,
+        "costoVenta": 40.0,
+        "valoracionTotal": 84
+    },
+    {
+        "nombreJugador": "Trent Alexander-Arnold",
+        "posicionJugador": "Defensor",
+        "costoJugador": 55.0,
+        "ataqueJugador": 80,
+        "defensaJugador": 75,
+        "golesJugador": 10,
+        "costoVenta": 50.0,
+        "valoracionTotal": 86
+    },
+    {
+        "nombreJugador": "Frenkie de Jong",
+        "posicionJugador": "Mediocampista",
+        "costoJugador": 50.5,
+        "ataqueJugador": 75,
+        "defensaJugador": 70,
+        "golesJugador": 15,
+        "costoVenta": 45.0,
+        "valoracionTotal": 85
+    },
+    {
+        "nombreJugador": "João Félix",
+        "posicionJugador": "Delantero",
+        "costoJugador": 58.0,
+        "ataqueJugador": 85,
+        "defensaJugador": 40,
+        "golesJugador": 25,
+        "costoVenta": 52.0,
+        "valoracionTotal": 84
+    },
+    {
+        "nombreJugador": "Declan Rice",
+        "posicionJugador": "Mediocampista",
+        "costoJugador": 42.0,
+        "ataqueJugador": 65,
+        "defensaJugador": 80,
+        "golesJugador": 5,
+        "costoVenta": 38.0,
+        "valoracionTotal": 82
+    },
+    {
+        "nombreJugador": "Raphaël Varane",
+        "posicionJugador": "Defensor",
+        "costoJugador": 57.0,
+        "ataqueJugador": 50,
+        "defensaJugador": 88,
+        "golesJugador": 5,
+        "costoVenta": 52.0,
+        "valoracionTotal": 87
+    },
+    {
+        "nombreJugador": "Erling Haaland",
+        "posicionJugador": "Delantero",
+        "costoJugador": 59.5,
+        "ataqueJugador": 90,
+        "defensaJugador": 35,
+        "golesJugador": 45,
+        "costoVenta": 54.0,
+        "valoracionTotal": 89
+    },
+    {
+        "nombreJugador": "Aymeric Laporte",
+        "posicionJugador": "Defensor",
+        "costoJugador": 49.0,
+        "ataqueJugador": 40,
+        "defensaJugador": 82,
+        "golesJugador": 5,
+        "costoVenta": 44.0,
+        "valoracionTotal": 83
+    },
+    {
+        "nombreJugador": "Rodri",
+        "posicionJugador": "Mediocampista",
+        "costoJugador": 46.5,
+        "ataqueJugador": 70,
+        "defensaJugador": 78,
+        "golesJugador": 10,
+        "costoVenta": 42.0,
+        "valoracionTotal": 85
+    }
+
+]

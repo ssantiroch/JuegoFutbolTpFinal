@@ -1,0 +1,498 @@
+[
+    {
+        "nombreEquipo": "Barcelona",
+        "dtEquipo": "Xavi Hernández",
+        "presupuestoEquipo": 4000000,
+        "puntajeEquipo": 0,
+        "jugadoresEquipo": [
+            {
+                "nombreJugador": "Marc-André ter Stegen",
+                "posicionJugador": "Portero",
+                "costoJugador": 15000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 95,
+                "valoracionTotal": 87
+            },
+            {
+                "nombreJugador": "João Cancelo",
+                "posicionJugador": "Defensor",
+                "costoJugador": 10000000,
+                "ataqueJugador": 50,
+                "defensaJugador": 85,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Ronald Araujo",
+                "posicionJugador": "Defensor",
+                "costoJugador": 20000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 95,
+                "valoracionTotal": 82
+            },
+            {
+                "nombreJugador": "Marcos Alonso",
+                "posicionJugador": "Defensor",
+                "costoJugador": 10000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 85,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Jules Koundé",
+                "posicionJugador": "Defensor",
+                "costoJugador": 10000000,
+                "ataqueJugador": 50,
+                "defensaJugador": 80,
+                "valoracionTotal": 65
+            },
+            {
+                "nombreJugador": "Pedri",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 20000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 75,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Frenkie de Jong",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 20000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 80,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Ilkay Gündogan",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 10000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 70,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Robert Lewandowski",
+                "posicionJugador": "Delantero",
+                "costoJugador": 10000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 65,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "João Félix",
+                "posicionJugador": "Delantero",
+                "costoJugador": 15000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 60,
+                "valoracionTotal": 70
+            },
+            {
+                "nombreJugador": "Lamine Yamal",
+                "posicionJugador": "Delantero",
+                "costoJugador": 25000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 70,
+                "valoracionTotal": 75
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    },
+    {
+        "nombreEquipo": "Atlético Madrid",
+        "dtEquipo": "Diego Simeone",
+        "presupuestoEquipo": 4000000,
+        "puntajeEquipo": 0,
+        "jugadoresEquipo": [
+            {
+                "nombreJugador": "Jan Oblak",
+                "posicionJugador": "Portero",
+                "costoJugador": 25000000,
+                "ataqueJugador": 40,
+                "defensaJugador": 90,
+                "valoracionTotal": 65
+            },
+            {
+                "nombreJugador": "José Giménez",
+                "posicionJugador": "Defensor",
+                "costoJugador": 20000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 90,
+                "valoracionTotal": 80
+            },
+            {
+                "nombreJugador": "César Azpilicueta",
+                "posicionJugador": "Defensor",
+                "costoJugador": 12000000,
+                "ataqueJugador": 50,
+                "defensaJugador": 80,
+                "valoracionTotal": 65
+            },
+            {
+                "nombreJugador": "Stefan Savic",
+                "posicionJugador": "Defensor",
+                "costoJugador": 13000000,
+                "ataqueJugador": 55,
+                "defensaJugador": 82,
+                "valoracionTotal": 68
+            },
+            {
+                "nombreJugador": "Nahuel Molina",
+                "posicionJugador": "Defensor",
+                "costoJugador": 10000000,
+                "ataqueJugador": 45,
+                "defensaJugador": 75,
+                "valoracionTotal": 60
+            },
+            {
+                "nombreJugador": "Rodrigo De Paul",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 25000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 85,
+                "valoracionTotal": 82
+            },
+            {
+                "nombreJugador": "Thomas Lemar",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 20000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 80,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Marcos Llorente",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 27000000,
+                "ataqueJugador": 78,
+                "defensaJugador": 85,
+                "valoracionTotal": 81
+            },
+            {
+                "nombreJugador": "Antoine Griezmann",
+                "posicionJugador": "Delantero",
+                "costoJugador": 22000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 80,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Ángel Correa",
+                "posicionJugador": "Delantero",
+                "costoJugador": 20000000,
+                "ataqueJugador": 72,
+                "defensaJugador": 78,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Álvaro Morata",
+                "posicionJugador": "Delantero",
+                "costoJugador": 1500000,
+                "ataqueJugador": 75,
+                "defensaJugador": 75,
+                "valoracionTotal": 75
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    },
+    {
+        "nombreEquipo": "Sevilla",
+        "dtEquipo": "José Luis Mendilibar",
+        "presupuestoEquipo": 4000000,
+        "puntajeEquipo": 0,
+        "jugadoresEquipo": [
+            {
+                "nombreJugador": "Marko Dmitrovic",
+                "posicionJugador": "Portero",
+                "costoJugador": 6000000,
+                "ataqueJugador": 40,
+                "defensaJugador": 75,
+                "valoracionTotal": 57
+            },
+            {
+                "nombreJugador": "Kike Salas",
+                "posicionJugador": "Defensor",
+                "costoJugador": 8000000,
+                "ataqueJugador": 55,
+                "defensaJugador": 70,
+                "valoracionTotal": 62
+            },
+            {
+                "nombreJugador": "Sergio Ramos",
+                "posicionJugador": "Defensor",
+                "costoJugador": 15000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 80,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Jesús Navas",
+                "posicionJugador": "Defensor",
+                "costoJugador": 11000000,
+                "ataqueJugador": 55,
+                "defensaJugador": 78,
+                "valoracionTotal": 66
+            },
+            {
+                "nombreJugador": "Marcos Acuña",
+                "posicionJugador": "Defensor",
+                "costoJugador": 9000000,
+                "ataqueJugador": 50,
+                "defensaJugador": 75,
+                "valoracionTotal": 62
+            },
+            {
+                "nombreJugador": "Lucas Ocampos",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 12000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 70,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Nemanja Gudelj",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 11000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 72,
+                "valoracionTotal": 71
+            },
+            {
+                "nombreJugador": "Suso",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 10000000,
+                "ataqueJugador": 68,
+                "defensaJugador": 70,
+                "valoracionTotal": 69
+            },
+            {
+                "nombreJugador": "Rafa Mir",
+                "posicionJugador": "Delantero",
+                "costoJugador": 10000000,
+                "ataqueJugador": 70,
+                "defensaJugador": 75,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Alejo Véliz",
+                "posicionJugador": "Delantero",
+                "costoJugador": 9000000,
+                "ataqueJugador": 68,
+                "defensaJugador": 72,
+                "valoracionTotal": 70
+            },
+            {
+                "nombreJugador": "Dodi Lukébakio",
+                "posicionJugador": "Delantero",
+                "costoJugador": 8500000,
+                "ataqueJugador": 65,
+                "defensaJugador": 70,
+                "valoracionTotal": 67
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    },
+    {
+        "nombreEquipo": "Valencia",
+        "dtEquipo": "Rubén Baraja",
+        "presupuestoEquipo": 4000000,
+        "puntajeEquipo": 0,
+        "jugadoresEquipo": [
+            {
+                "nombreJugador": "Jaume Domènech",
+                "posicionJugador": "Portero",
+                "costoJugador": 4000000,
+                "ataqueJugador": 35,
+                "defensaJugador": 80,
+                "valoracionTotal": 57
+            },
+            {
+                "nombreJugador": "Cristhian Mosquera",
+                "posicionJugador": "Defensor",
+                "costoJugador": 6000000,
+                "ataqueJugador": 50,
+                "defensaJugador": 75,
+                "valoracionTotal": 62
+            },
+            {
+                "nombreJugador": "Mouctar Diakhaby",
+                "posicionJugador": "Defensor",
+                "costoJugador": 8000000,
+                "ataqueJugador": 60,
+                "defensaJugador": 80,
+                "valoracionTotal": 70
+            },
+            {
+                "nombreJugador": "Thierry Correia",
+                "posicionJugador": "Defensor",
+                "costoJugador": 9000000,
+                "ataqueJugador": 45,
+                "defensaJugador": 75,
+                "valoracionTotal": 60
+            },
+            {
+                "nombreJugador": "José Gayà",
+                "posicionJugador": "Defensor",
+                "costoJugador": 12000000,
+                "ataqueJugador": 55,
+                "defensaJugador": 80,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Sergi Canós",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 10000000,
+                "ataqueJugador": 65,
+                "defensaJugador": 75,
+                "valoracionTotal": 70
+            },
+            {
+                "nombreJugador": "Javi Guerra",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 8000000,
+                "ataqueJugador": 60,
+                "defensaJugador": 70,
+                "valoracionTotal": 65
+            },
+            {
+                "nombreJugador": "Pepelu",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 7000000,
+                "ataqueJugador": 55,
+                "defensaJugador": 65,
+                "valoracionTotal": 60
+            },
+            {
+                "nombreJugador": "Hugo Duro",
+                "posicionJugador": "Delantero",
+                "costoJugador": 12000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 78,
+                "valoracionTotal": 76
+            },
+            {
+                "nombreJugador": "Alberto Marí",
+                "posicionJugador": "Delantero",
+                "costoJugador": 7500000,
+                "ataqueJugador": 60,
+                "defensaJugador": 70,
+                "valoracionTotal": 65
+            },
+            {
+                "nombreJugador": "Joselu",
+                "posicionJugador": "Delantero",
+                "costoJugador": 6000000,
+                "ataqueJugador": 55,
+                "defensaJugador": 65,
+                "valoracionTotal": 60
+            }
+        ],
+        "ventajaDeEquipo": false,
+        "victorias": 0,
+        "empates": 0,
+        "derrotas": 0
+    },
+    {
+        "nombreEquipo": "Real Madrid",
+        "dtEquipo": "Carlo Ancelotti",
+        "presupuestoEquipo": 4000000,
+        "puntajeEquipo": 0,
+        "jugadoresEquipo": [
+            {
+                "nombreJugador": "Thibaut Courtois",
+                "posicionJugador": "Portero",
+                "costoJugador": 25000000,
+                "ataqueJugador": 40,
+                "defensaJugador": 85,
+                "valoracionTotal": 62
+            },
+            {
+                "nombreJugador": "Éder Militão",
+                "posicionJugador": "Defensor",
+                "costoJugador": 20000000,
+                "ataqueJugador": 55,
+                "defensaJugador": 80,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "David Alaba",
+                "posicionJugador": "Defensor",
+                "costoJugador": 30000000,
+                "ataqueJugador": 60,
+                "defensaJugador": 85,
+                "valoracionTotal": 72
+            },
+            {
+                "nombreJugador": "Nacho",
+                "posicionJugador": "Defensor",
+                "costoJugador": 15000000,
+                "ataqueJugador": 50,
+                "defensaJugador": 75,
+                "valoracionTotal": 62
+            },
+            {
+                "nombreJugador": "Ferland Mendy",
+                "posicionJugador": "Defensor",
+                "costoJugador": 18000000,
+                "ataqueJugador": 55,
+                "defensaJugador": 80,
+                "valoracionTotal": 67
+            },
+            {
+                "nombreJugador": "Jude Bellingham",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 35000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 75,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Toni Kroos",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 40000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 75,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Luka Modric",
+                "posicionJugador": "Mediocampista",
+                "costoJugador": 30000000,
+                "ataqueJugador": 75,
+                "defensaJugador": 80,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Vinícius Júnior",
+                "posicionJugador": "Delantero",
+                "costoJugador": 50000000,
+                "ataqueJugador": 85,
+                "defensaJugador": 70,
+                "valoracionTotal": 77
+            },
+            {
+                "nombreJugador": "Rodrygo",
+                "posicionJugador": "Delantero",
+                "costoJugador": 45000000,
+                "ataqueJugador": 80,
+                "defensaJugador": 70,
+                "valoracionTotal": 75
+            },
+            {
+                "nombreJugador": "Kylian Mbappe",
+                "posicionJugador": "Delantero",
+                "costoJugador": 70000000,
+                "ataqueJugador": 99,
+                "defensaJugador": 80,
+                "valoracionTotal": 89
+            }
+        ]
+    }
+]
